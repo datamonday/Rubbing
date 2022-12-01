@@ -1,0 +1,2 @@
+# Rubbing
+OCR Algorithm Practice
